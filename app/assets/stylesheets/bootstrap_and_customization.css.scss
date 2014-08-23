@@ -1,6 +1,15 @@
 $body-bg :#bdc3c7;
 $navbar-default-bg: #e74c3c;
 $navbar-default-link-color: #ecf0f1;
+$font-family-sans-serif: 'Roboto', sans-serif;
 $jumbotron-bg: #ecf0f1;
 $brand-primary: #e74c3c;
 @import 'bootstrap';
+
+.center {
+		text-align: center;
+}
+
+.navbar-brand {
+	font-weight: bold;
+}
